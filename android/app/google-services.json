@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498335588137",
+    "project_id": "tp-final-bd595",
+    "storage_bucket": "tp-final-bd595.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498335588137:android:c1430737b626661352e138",
+        "android_client_info": {
+          "package_name": "com.example.entrega_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjmVyJYilMT56wiRX8Xk6fqMmzIA8tVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
